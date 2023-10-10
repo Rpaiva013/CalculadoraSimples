@@ -1,0 +1,15 @@
+C:\Users\renan.paiva\Desktop\Básicos\Calculadora simples\bin\Debug\net7.0\Calculadora simples.exe
+C:\Users\renan.paiva\Desktop\Básicos\Calculadora simples\bin\Debug\net7.0\Calculadora simples.deps.json
+C:\Users\renan.paiva\Desktop\Básicos\Calculadora simples\bin\Debug\net7.0\Calculadora simples.runtimeconfig.json
+C:\Users\renan.paiva\Desktop\Básicos\Calculadora simples\bin\Debug\net7.0\Calculadora simples.dll
+C:\Users\renan.paiva\Desktop\Básicos\Calculadora simples\bin\Debug\net7.0\Calculadora simples.pdb
+C:\Users\renan.paiva\Desktop\Básicos\Calculadora simples\obj\Debug\net7.0\Calculadora simples.csproj.AssemblyReference.cache
+C:\Users\renan.paiva\Desktop\Básicos\Calculadora simples\obj\Debug\net7.0\Calculadora simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan.paiva\Desktop\Básicos\Calculadora simples\obj\Debug\net7.0\Calculadora simples.AssemblyInfoInputs.cache
+C:\Users\renan.paiva\Desktop\Básicos\Calculadora simples\obj\Debug\net7.0\Calculadora simples.AssemblyInfo.cs
+C:\Users\renan.paiva\Desktop\Básicos\Calculadora simples\obj\Debug\net7.0\Calculadora simples.csproj.CoreCompileInputs.cache
+C:\Users\renan.paiva\Desktop\Básicos\Calculadora simples\obj\Debug\net7.0\Calculadora simples.dll
+C:\Users\renan.paiva\Desktop\Básicos\Calculadora simples\obj\Debug\net7.0\refint\Calculadora simples.dll
+C:\Users\renan.paiva\Desktop\Básicos\Calculadora simples\obj\Debug\net7.0\Calculadora simples.pdb
+C:\Users\renan.paiva\Desktop\Básicos\Calculadora simples\obj\Debug\net7.0\Calculadora simples.genruntimeconfig.cache
+C:\Users\renan.paiva\Desktop\Básicos\Calculadora simples\obj\Debug\net7.0\ref\Calculadora simples.dll
